@@ -63,6 +63,8 @@
 .checkbox {
   text-align:left;
 }
+._流程形状 {
+}
 .tree_node {
   text-align:left;
 }
@@ -148,11 +150,25 @@
   font-size:18px;
   text-align:left;
 }
+._34号字_单行列表内，左方主标题文字字） {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:17px;
+  text-align:left;
+}
 ._32号字_单行列表内，右方操作说明的文字__） {
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:16px;
+  text-align:left;
+}
+._28号字_页面备注信息及列表的表头说明文字__） {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
   text-align:left;
 }
 .image1 {
@@ -168,6 +184,30 @@
   font-style:normal;
   font-size:14px;
   color:#606266;
+  text-align:left;
+}
+.input-placeholder {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#C0C4CC;
+  text-align:left;
+}
+.inputed {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:left;
+}
+.input-textarea {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#C0C4CC;
   text-align:left;
 }
 textarea, select, input, button { outline: none; }
