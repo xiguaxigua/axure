@@ -60,15 +60,25 @@
 ._文本 {
   text-align:left;
 }
+.checkbox {
+  text-align:left;
+}
 .tree_node {
   text-align:left;
 }
 .table_cell {
 }
+.sticky_3 {
+  text-align:left;
+}
+.form_disabled {
+}
 ._表单提示 {
   color:#999999;
 }
 ._表单禁用 {
+}
+.icon {
 }
 .line {
 }
@@ -119,6 +129,13 @@
   color:#F56C6C;
   text-align:center;
 }
+.tooltip {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#FFFFFF;
+}
 .shape {
 }
 ._36号字_顶部标题、大按钮、弹窗提示主标题_ {
@@ -139,5 +156,15 @@
   color:#000000;
 }
 .box_2 {
+}
+.checkbox-uncheck {
+}
+.checkbox-label-uncheck {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:left;
 }
 textarea, select, input, button { outline: none; }
