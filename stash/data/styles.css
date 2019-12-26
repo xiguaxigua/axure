@@ -61,4 +61,6 @@
 }
 .form_disabled {
 }
+.line {
+}
 textarea, select, input, button { outline: none; }
